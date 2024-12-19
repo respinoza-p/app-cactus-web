@@ -10,7 +10,7 @@ El eCommerce está desplegado en producción en la siguiente URL: [https://app-c
 
 ## Instrucciones de uso
 
-# IMPORTANTE:
+### IMPORTANTE:
 La navegación puede tener una latencia mayor a la esperada, debido a que es un entorno gratuito y con capacidad limitada.
 
 1) Para ingresar por primera vez al sitio, debes registrarte en el menú "Crear Cuenta" con tu correo electrónico, contraseña y el resto de los datos solicitados en el formulario.
