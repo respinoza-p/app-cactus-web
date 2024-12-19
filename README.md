@@ -77,8 +77,10 @@ El eCommerce está desplegado en producción en la siguiente URL: [https://app-c
 4. Configura las variables de entorno creando un archivo **.env** en la raíz del proyecto:
 
    ```env
-   VITE_API_BASE_URL=http://localhost:3000/api
-   VITE_PAYPAL_CLIENT_ID=tu_client_id_de_paypal
+      VITE_PAYPAL_CLIENT_ID=<clave gestionada para el entorno de pruebas de PayPal>
+      VITE_API_URL=http://localhost:3000/api/productos
+      VITE_API_LOGIN_URL=http://localhost:3000/api/usuarios/login
+      VITE_API_REGISTER_URL=http://localhost:3000/api/usuarios
    ```
 
 ## Integración de PayPal
