@@ -20,7 +20,23 @@ El eCommerce está desplegado en producción en la siguiente URL: [https://app-c
 
 3) Ya lista la autenticación, puedes navegar por las opciones del sitio.
 
-4) Para realizar el pago por la versión de pruebas de PayPay, es recomendable usar la opción pago con tarjeta con el siguiente número: 0000-0000-0000-0000
+4) Para realizar el pago por la versión de pruebas de PayPay, debe contar con un usuario de pruebas para en SandBox, o bien usar la siguiente cuenta de pruebas:
+
+   ## Cuenta PayPal de prueba:
+   - **User**: sb-r1xpa34923642@personal.example.com
+   - **Pass**: mrFh#1]8
+   
+   ## Datos de Tarjeta de prueba:
+   - **Número:** 4917409806699721
+   - **Expira:** 12/2029
+   - **CVC:** Completar con 3 dígitos (cualquiera)
+
+<img width="1324" alt="Captura de pantalla 2024-12-19 a la(s) 08 54 41" src="https://github.com/user-attachments/assets/231cfc0b-c86e-4564-8d4c-8267050bfc3e" />
+
+<img width="523" alt="Captura de pantalla 2024-12-19 a la(s) 08 57 47" src="https://github.com/user-attachments/assets/1e681b80-88bf-4850-9545-d3b37e8b01eb" />
+
+<img width="1325" alt="Captura de pantalla 2024-12-19 a la(s) 08 58 05" src="https://github.com/user-attachments/assets/f175e259-ab43-4268-a252-b02b4b00d8ba" />
+
 
 
 ## Tecnologías Utilizadas
